@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <table border="1" cellpadding="5">
+                <tr>
+                    <th>Hücre 1 </th>
+                    <th rowspan="2">Hücre2</th>
+                    <th>Hücre 3 </th>
+                    
+                </tr>
+                <tr>
+                    <td> Hücre4</td>
+                    <td> Hücre5</td>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
